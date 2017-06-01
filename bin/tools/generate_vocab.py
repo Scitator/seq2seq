@@ -23,6 +23,7 @@ import argparse
 import collections
 import logging
 
+
 parser = argparse.ArgumentParser(
     description="Generate vocabulary for a tokenized text file.")
 parser.add_argument(
